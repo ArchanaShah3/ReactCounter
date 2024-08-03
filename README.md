@@ -1,4 +1,3 @@
-# React + Vite
 
 # Counter Project to Learn Hooks
 
@@ -22,8 +21,8 @@ React hooks allow you to use state and other React features without writing a cl
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/ArchanaShah3/ReactCounter.git
+   cd ReactCounter
    ```
 
 2. Install dependencies:
